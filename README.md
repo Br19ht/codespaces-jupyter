@@ -1,7 +1,12 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# DS 220 Project 2
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+*Data Analysis with Python Pandas (Individual) - Joshua Chang, jvc6690@psu.edu*
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+The dataset we will be working on is taken from Kaggle.com, named *"World Happiness Report."* This is one of the most popular datasets in Kaggle for its good usage. This dataset contains 155 to 158 countries' happiness rank and scores, with numeric data on family, health, freedom, and more. In this project, we will analyze the *World Happiness Report (WHR)* for the year of 2015, 2016, 2017, 2018, and 2019, to get the answers for the following points and plot the results:
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+1. How has the happiness ranking of the United States changed from 2015 to 2019?
+2. How have the 10 happiest countries changed over from 2015 to 2019?
+3. How have the 10 unhappiest countries changed over from 2015 to 2019?
+4. Is there any correlation between happiness levels and Gross Domestic Product (GDP) per capita?
+5. Is there any correlation between happiness levels and life expectancy?
+6. Which factors have the strongest impact on happiness across different countries? 
